@@ -1,0 +1,36 @@
+{
+  "version": "1.0.0",
+  "dependencies": [
+    {
+      "version_requirement": ">= 1.0.0",
+      "name": "ghoneycutt/apache"
+    },
+    {
+      "version_requirement": ">= 1.0.0",
+      "name": "ghoneycutt/generic"
+    },
+    {
+      "version_requirement": ">= 1.0.0",
+      "name": "ghoneycutt/mysql"
+    },
+    {
+      "version_requirement": ">= 1.0.0",
+      "name": "ghoneycutt/pam"
+    }
+  ],
+  "name": "ghoneycutt-cacti",
+  "checksums": {
+    "spec/spec_helper.rb": "ca19ec4f451ebc7fdb035b52eae6e909",
+    "files/db.php": "5b3f40ddb1857b48b82f55d5be0c8f4d",
+    "README": "b65477fb80ee9ad6436071e5981a274c",
+    "files/cacti.sql": "cdf98de3f48aa3996df8376053027869",
+    "tests/init.pp": "d74d50cd41861139e895de540edb6b6f",
+    "spec/spec.opts": "a600ded995d948e393fbe2320ba8e51c",
+    "metadata.json": "d34d0b70aba36510fbc2df4e667479ef",
+    "Modulefile": "60a8f25dd1acddbaffc265c91004f771",
+    "manifests/init.pp": "881da1ff14bf23347330e99b4a5abf52"
+  },
+  "types": [
+
+  ]
+}
